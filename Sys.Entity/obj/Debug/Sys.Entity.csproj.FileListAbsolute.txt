@@ -1,0 +1,15 @@
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\Sys.Entity.dll.config
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\Sys.Entity.dll
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\Sys.Entity.pdb
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\EntityFramework.dll
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\EntityFramework.SqlServer.dll
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\EntityFramework.xml
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\EntityFramework.SqlServer.xml
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\obj\Debug\Sys.Entity.csproj.CoreCompileInputs.cache
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\obj\Debug\Sys.Entity.dll
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\obj\Debug\Sys.Entity.pdb
+F:\UserSystem\SysV9\Server\Sys\Sys.Entity\obj\Debug\Sys.Entity.csprojResolveAssemblyReference.cache
